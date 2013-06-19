@@ -21,8 +21,6 @@ public class MergeSort {
    * @param array
    */
   public static void cocktailSort(int[] array) {
-    printArray(array);
-    
     
   }
 
