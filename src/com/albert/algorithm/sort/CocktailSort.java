@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 鸡尾酒排序 双向的冒泡排序 — O(n^2） 稳定的
  * 
  * @author Albert
- * 
+ * @see http://baike.baidu.com/view/1981861.htm
  */
 public class CocktailSort {
 
