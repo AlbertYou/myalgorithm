@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 快速排序法
  * 
  * @author Albert
- *
+ * @see http://baike.baidu.com/view/19016.htm
  */
 public class QuickSort {
 
