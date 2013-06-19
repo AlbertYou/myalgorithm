@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 简单选择排序法
  * 
  * @author Albert
- *
+ * @see http://baike.baidu.com/view/1575807.htm
  */
 public class SelectSort {
 
