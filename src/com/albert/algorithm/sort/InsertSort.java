@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 插入排序法
  * 
  * @author Albert
- *
+ * @see http://baike.baidu.com/view/1443814.htm
  */
 public class InsertSort {
 
