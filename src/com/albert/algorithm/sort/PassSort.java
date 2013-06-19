@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 传递排序法
  * 
  * @author Albert
- *
+ * @see http://baike.baidu.com/view/9975641.htm
  */
 public class PassSort {
 
