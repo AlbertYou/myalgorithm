@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 冒泡排序法 平均时间复杂度为O(n^2)  最好的时间复杂度为O(0)  稳定的
  * 
  * @author Albert
- *
+ * @see http://baike.baidu.com/view/254413.htm?fromId=1313793
  */
 public class BubbleSort {
 
