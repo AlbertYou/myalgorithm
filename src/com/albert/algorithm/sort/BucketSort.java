@@ -3,10 +3,10 @@ package com.albert.algorithm.sort;
 import java.util.Arrays;
 
 /**
- * 桶排序法
+ * 桶排序法(基数排序法)
  * 
  * @author Albert
- * @see http://baike.baidu.com/view/1784217.htm
+ * @see http://baike.baidu.com/view/1784217.htm  http://baike.baidu.com/view/1170573.htm
  */
 public class BucketSort {
 
