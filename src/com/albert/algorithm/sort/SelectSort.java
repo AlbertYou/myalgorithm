@@ -44,5 +44,4 @@ public class SelectSort {
     System.out.print(Arrays.toString(array));
     System.out.println();
   }
-  
 }
