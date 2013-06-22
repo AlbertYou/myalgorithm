@@ -60,5 +60,4 @@ public class BucketSort {
 		System.out.print(Arrays.toString(array));
 		System.out.println();
 	}
-
 }
