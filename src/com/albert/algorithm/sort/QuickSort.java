@@ -50,5 +50,4 @@ public class QuickSort {
     System.out.print(Arrays.toString(array));
     System.out.println();
   }
-  
 }
