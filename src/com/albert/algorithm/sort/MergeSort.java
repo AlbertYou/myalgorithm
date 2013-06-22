@@ -40,8 +40,8 @@ public class MergeSort {
               listR[j] = list[i];
           }
 
-          int[] sortedListL=sort(listL);
-          int[] sortedListR=sort(listR);
+          int[] sortedListL = sort(listL);
+          int[] sortedListR = sort(listR);
           int[] result = mergeTwoList(sortedListL, sortedListR);
           return result;
       }
