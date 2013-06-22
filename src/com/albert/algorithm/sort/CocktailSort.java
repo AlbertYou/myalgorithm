@@ -49,5 +49,4 @@ public class CocktailSort {
     System.out.print(Arrays.toString(array));
     System.out.println();
   }
-
 }
