@@ -14,6 +14,7 @@ public class BubbleSort {
     int[] array = {6, 5, 3, 9, 0, 2, 7, 6, 4, 12, 11};
     sort(array);
   }
+  
   /**
    * 升序排列
    * 
