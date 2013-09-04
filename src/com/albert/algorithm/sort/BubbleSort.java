@@ -38,7 +38,6 @@ public class BubbleSort {
   
   private static void printArray(int[] array) {
     System.out.print(Arrays.toString(array));
-    System.out.println();
   }
   
 }
